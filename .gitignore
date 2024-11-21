@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.sqlite3
+
+# Local development
+db.sqlite3
+.DS_Store
+*.swp
+*.swo
+*.coverage
+coverage.xml
+*.pid
+
+# Media and static files
+/static/
+/media/
+
+# Environment variables
+.env
+
+# IDE-specific files
+.idea/
+*.iml
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm
+*.idea/
+*.ipr
+*.iws
+*.iml
+
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+
+# Other
+*.bak
+*.tmp
